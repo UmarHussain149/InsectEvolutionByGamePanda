@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94f82d9b44c54ef59488bcd984ac6751, type: 3}
+  m_Name: SimpleFollow
+  m_EditorClassIdentifier: 
+  m_StateName: MainState
+  transitions: []
+  cameraDetails:
+    target: {fileID: 0}
+    pivot: {fileID: 0}
+    camera: {fileID: 0}
+    deltaTime: 0.0804305
+  posOffset: {x: 0, y: 3.41, z: -9.32}
+  lookOffset: {x: 39.89, y: 0, z: 0}
+  followSpeed: 5
+  lookSpeed: 2

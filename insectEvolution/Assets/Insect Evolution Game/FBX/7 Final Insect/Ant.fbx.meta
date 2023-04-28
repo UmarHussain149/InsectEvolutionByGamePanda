@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: b0025fa882920f242a48098b57d00980
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -7982741018172644107
+    second: ctrl_capo|ctrl_capo|Take 001|BaseLayer
+  - first:
+      74: -3666271090830775390
+    second: ctrl_capo|ctrl_gastro|Take 001|BaseLayer
+  - first:
+      74: 4867963959553137989
+    second: ctrl_capo|ctrl_mesosoma|Take 001|BaseLayer
+  - first:
+      74: 2511702840226724348
+    second: ctrl_capo|ctrl_zampa1|Take 001|BaseLayer
+  - first:
+      74: -7345281425855799220
+    second: ctrl_capo|ctrl_zampa2|Take 001|BaseLayer
+  - first:
+      74: 5186285479958122344
+    second: ctrl_capo|ctrl_zampa3|Take 001|BaseLayer
+  - first:
+      74: 804443893833251749
+    second: ctrl_capo|ctrl_zampa4|Take 001|BaseLayer
+  - first:
+      74: 5128791290941035436
+    second: ctrl_capo|ctrl_zampa5|Take 001|BaseLayer
+  - first:
+      74: 6567811776495684945
+    second: ctrl_capo|ctrl_zampa6|Take 001|BaseLayer
+  - first:
+      74: 7828375601903946982
+    second: ctrl_gastro|ctrl_capo|Take 001|BaseLayer
+  - first:
+      74: 6336067751129429033
+    second: ctrl_gastro|ctrl_gastro|Take 001|BaseLayer
+  - first:
+      74: -4455946495391891634
+    second: ctrl_gastro|ctrl_mesosoma|Take 001|BaseLayer
+  - first:
+      74: 2983807760591119924
+    second: ctrl_gastro|ctrl_zampa1|Take 001|BaseLayer
+  - first:
+      74: 2526917634632768330
+    second: ctrl_gastro|ctrl_zampa2|Take 001|BaseLayer
+  - first:
+      74: 8739869967843402898
+    second: ctrl_gastro|ctrl_zampa3|Take 001|BaseLayer
+  - first:
+      74: 1154798927518291804
+    second: ctrl_gastro|ctrl_zampa4|Take 001|BaseLayer
+  - first:
+      74: 1700562444916327245
+    second: ctrl_gastro|ctrl_zampa5|Take 001|BaseLayer
+  - first:
+      74: -4890146804592476202
+    second: ctrl_gastro|ctrl_zampa6|Take 001|BaseLayer
+  - first:
+      74: 2849903581067532515
+    second: Armature.002|Armature.002|Take 001|BaseLayer
+  - first:
+      74: -431574697709463281
+    second: Armature.002|ctrl_capo|Take 001|BaseLayer
+  - first:
+      74: 7992058021582521641
+    second: Armature.002|ctrl_gastro|Take 001|BaseLayer
+  - first:
+      74: 9116986583401446389
+    second: Armature.002|ctrl_mesosoma|Take 001|BaseLayer
+  - first:
+      74: -8976819321569266825
+    second: Armature.002|ctrl_zampa1|Take 001|BaseLayer
+  - first:
+      74: 6261665575977045780
+    second: Armature.002|ctrl_zampa2|Take 001|BaseLayer
+  - first:
+      74: 2685733322270013219
+    second: Armature.002|ctrl_zampa3|Take 001|BaseLayer
+  - first:
+      74: -6862262439755959869
+    second: Armature.002|ctrl_zampa4|Take 001|BaseLayer
+  - first:
+      74: 1869632052954977831
+    second: Armature.002|ctrl_zampa5|Take 001|BaseLayer
+  - first:
+      74: 515699049451223696
+    second: Armature.002|ctrl_zampa6|Take 001|BaseLayer
+  - first:
+      74: 4814671164094264796
+    second: ctrl_mesosoma|ctrl_capo|Take 001|BaseLayer
+  - first:
+      74: -1887046630141228891
+    second: ctrl_mesosoma|ctrl_gastro|Take 001|BaseLayer
+  - first:
+      74: -4250961132066181426
+    second: ctrl_mesosoma|ctrl_mesosoma|Take 001|BaseLayer
+  - first:
+      74: 5562624144390482857
+    second: ctrl_mesosoma|ctrl_zampa1|Take 001|BaseLayer
+  - first:
+      74: 7662709168045391482
+    second: ctrl_mesosoma|ctrl_zampa2|Take 001|BaseLayer
+  - first:
+      74: -1478496168527490760
+    second: ctrl_mesosoma|ctrl_zampa3|Take 001|BaseLayer
+  - first:
+      74: -1007881348151867787
+    second: ctrl_mesosoma|ctrl_zampa4|Take 001|BaseLayer
+  - first:
+      74: -4683629366271477241
+    second: ctrl_mesosoma|ctrl_zampa5|Take 001|BaseLayer
+  - first:
+      74: 5429870655697509582
+    second: ctrl_mesosoma|ctrl_zampa6|Take 001|BaseLayer
+  - first:
+      74: -7377539860339643181
+    second: ctrl_zampa6|ctrl_capo|Take 001|BaseLayer
+  - first:
+      74: -6494639049668512378
+    second: ctrl_zampa6|ctrl_gastro|Take 001|BaseLayer
+  - first:
+      74: -3106843212324458889
+    second: ctrl_zampa6|ctrl_mesosoma|Take 001|BaseLayer
+  - first:
+      74: 6033303452363537391
+    second: ctrl_zampa6|ctrl_zampa1|Take 001|BaseLayer
+  - first:
+      74: -5804689431685727715
+    second: ctrl_zampa6|ctrl_zampa2|Take 001|BaseLayer
+  - first:
+      74: 3389285528934630066
+    second: ctrl_zampa6|ctrl_zampa3|Take 001|BaseLayer
+  - first:
+      74: 5384808367429383270
+    second: ctrl_zampa6|ctrl_zampa4|Take 001|BaseLayer
+  - first:
+      74: -4819687324069626908
+    second: ctrl_zampa6|ctrl_zampa5|Take 001|BaseLayer
+  - first:
+      74: -4711756589100289386
+    second: ctrl_zampa6|ctrl_zampa6|Take 001|BaseLayer
+  - first:
+      74: 4236709731395016992
+    second: ctrl_zampa5|ctrl_capo|Take 001|BaseLayer
+  - first:
+      74: 6198580113402430723
+    second: ctrl_zampa5|ctrl_gastro|Take 001|BaseLayer
+  - first:
+      74: -7470225157543281107
+    second: ctrl_zampa5|ctrl_mesosoma|Take 001|BaseLayer
+  - first:
+      74: 2363720244237478406
+    second: ctrl_zampa5|ctrl_zampa1|Take 001|BaseLayer
+  - first:
+      74: 2419869048434507933
+    second: ctrl_zampa5|ctrl_zampa2|Take 001|BaseLayer
+  - first:
+      74: -118653554334826212
+    second: ctrl_zampa5|ctrl_zampa3|Take 001|BaseLayer
+  - first:
+      74: 1381773759676577896
+    second: ctrl_zampa5|ctrl_zampa4|Take 001|BaseLayer
+  - first:
+      74: -3491938414866345197
+    second: ctrl_zampa5|ctrl_zampa5|Take 001|BaseLayer
+  - first:
+      74: -526499698024902784
+    second: ctrl_zampa5|ctrl_zampa6|Take 001|BaseLayer
+  - first:
+      74: 461293249194324046
+    second: ctrl_zampa4|ctrl_capo|Take 001|BaseLayer
+  - first:
+      74: 9201938072252516692
+    second: ctrl_zampa4|ctrl_gastro|Take 001|BaseLayer
+  - first:
+      74: -1762763796509672427
+    second: ctrl_zampa4|ctrl_mesosoma|Take 001|BaseLayer
+  - first:
+      74: 7603007647501958492
+    second: ctrl_zampa4|ctrl_zampa1|Take 001|BaseLayer
+  - first:
+      74: -3139189335647213689
+    second: ctrl_zampa4|ctrl_zampa2|Take 001|BaseLayer
+  - first:
+      74: -4402217141461027223
+    second: ctrl_zampa4|ctrl_zampa3|Take 001|BaseLayer
+  - first:
+      74: -1328039188442205018
+    second: ctrl_zampa4|ctrl_zampa4|Take 001|BaseLayer
+  - first:
+      74: -3532788983326272690
+    second: ctrl_zampa4|ctrl_zampa5|Take 001|BaseLayer
+  - first:
+      74: -2099560066520505419
+    second: ctrl_zampa4|ctrl_zampa6|Take 001|BaseLayer
+  - first:
+      74: -8154825360801151035
+    second: ctrl_zampa3|ctrl_capo|Take 001|BaseLayer
+  - first:
+      74: -2907929201156677492
+    second: ctrl_zampa3|ctrl_gastro|Take 001|BaseLayer
+  - first:
+      74: 216131952918770095
+    second: ctrl_zampa3|ctrl_mesosoma|Take 001|BaseLayer
+  - first:
+      74: -8893845806345607579
+    second: ctrl_zampa3|ctrl_zampa1|Take 001|BaseLayer
+  - first:
+      74: 934194491319574575
+    second: ctrl_zampa3|ctrl_zampa2|Take 001|BaseLayer
+  - first:
+      74: 6490495233575744601
+    second: ctrl_zampa3|ctrl_zampa3|Take 001|BaseLayer
+  - first:
+      74: -9047860444239101844
+    second: ctrl_zampa3|ctrl_zampa4|Take 001|BaseLayer
+  - first:
+      74: 3617430468637927882
+    second: ctrl_zampa3|ctrl_zampa5|Take 001|BaseLayer
+  - first:
+      74: -5567426143200042283
+    second: ctrl_zampa3|ctrl_zampa6|Take 001|BaseLayer
+  - first:
+      74: -7692835013784802998
+    second: ctrl_zampa2|ctrl_capo|Take 001|BaseLayer
+  - first:
+      74: 6133709371605306029
+    second: ctrl_zampa2|ctrl_gastro|Take 001|BaseLayer
+  - first:
+      74: 7406681316489514957
+    second: ctrl_zampa2|ctrl_mesosoma|Take 001|BaseLayer
+  - first:
+      74: -1957961638451660552
+    second: ctrl_zampa2|ctrl_zampa1|Take 001|BaseLayer
+  - first:
+      74: -5914164176380768751
+    second: ctrl_zampa2|ctrl_zampa2|Take 001|BaseLayer
+  - first:
+      74: -1812311506605042253
+    second: ctrl_zampa2|ctrl_zampa3|Take 001|BaseLayer
+  - first:
+      74: -6110645484134973719
+    second: ctrl_zampa2|ctrl_zampa4|Take 001|BaseLayer
+  - first:
+      74: 76405549938685137
+    second: ctrl_zampa2|ctrl_zampa5|Take 001|BaseLayer
+  - first:
+      74: 6121704172636176340
+    second: ctrl_zampa2|ctrl_zampa6|Take 001|BaseLayer
+  - first:
+      74: 8932227332473400014
+    second: ctrl_zampa1|ctrl_capo|Take 001|BaseLayer
+  - first:
+      74: 5937667312137089131
+    second: ctrl_zampa1|ctrl_gastro|Take 001|BaseLayer
+  - first:
+      74: -1681332142348089860
+    second: ctrl_zampa1|ctrl_mesosoma|Take 001|BaseLayer
+  - first:
+      74: -6100750351729347932
+    second: ctrl_zampa1|ctrl_zampa1|Take 001|BaseLayer
+  - first:
+      74: 668900521179128439
+    second: ctrl_zampa1|ctrl_zampa2|Take 001|BaseLayer
+  - first:
+      74: -650848009209802814
+    second: ctrl_zampa1|ctrl_zampa3|Take 001|BaseLayer
+  - first:
+      74: -9008276351097670040
+    second: ctrl_zampa1|ctrl_zampa4|Take 001|BaseLayer
+  - first:
+      74: -4788110342120800512
+    second: ctrl_zampa1|ctrl_zampa5|Take 001|BaseLayer
+  - first:
+      74: -3475211255756771025
+    second: ctrl_zampa1|ctrl_zampa6|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

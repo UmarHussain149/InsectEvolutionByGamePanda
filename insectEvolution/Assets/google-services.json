@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205974487250",
+    "project_id": "igi-sniper-shooting-games",
+    "storage_bucket": "igi-sniper-shooting-games.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205974487250:android:bc8b14032d26fc125e2d0b",
+        "android_client_info": {
+          "package_name": "com.gns.army.commando.counterattack.fps.snipergame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205974487250-80krbr5lq6jh2up8um0cvj2kia7d1641.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEchbe3o5-fIgaxfm7dog2PVwMqOFawA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205974487250-80krbr5lq6jh2up8um0cvj2kia7d1641.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5049210713052689~6882480347"
+    }
+  ],
+  "configuration_version": "1"
+}

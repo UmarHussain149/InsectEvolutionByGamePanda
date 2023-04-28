@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: ec540f1d43947794fbfe855391a6701b
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 571681024605422389
+    second: Spider_Armature|ctrl_capo|Take 001|BaseLayer
+  - first:
+      74: 8067691295601752333
+    second: Spider_Armature|ctrl_gastro|Take 001|BaseLayer
+  - first:
+      74: 8529185843268754147
+    second: Spider_Armature|ctrl_mesosoma|Take 001|BaseLayer
+  - first:
+      74: -3328969666662934604
+    second: Spider_Armature|ctrl_zampa1|Take 001|BaseLayer
+  - first:
+      74: 698878831108991186
+    second: Spider_Armature|ctrl_zampa2|Take 001|BaseLayer
+  - first:
+      74: -4464067495648840477
+    second: Spider_Armature|ctrl_zampa3|Take 001|BaseLayer
+  - first:
+      74: 4046041372272458885
+    second: Spider_Armature|ctrl_zampa4|Take 001|BaseLayer
+  - first:
+      74: 3292556698899686593
+    second: Spider_Armature|ctrl_zampa5|Take 001|BaseLayer
+  - first:
+      74: -2781645776718927415
+    second: Spider_Armature|ctrl_zampa6|Take 001|BaseLayer
+  - first:
+      74: 4895220915263386305
+    second: Spider_Armature|Spider_Armature|Spider_Armature|Attack
+  - first:
+      74: -9104685124644414964
+    second: Spider_Armature|Spider_Armature|Spider_Armature|Attack.001
+  - first:
+      74: 7192901541170224922
+    second: Spider_Armature|Spider_Armature|Spider_Armature|die
+  - first:
+      74: -8027340078119012957
+    second: Spider_Armature|Spider_Armature|Spider_Armature|die 2
+  - first:
+      74: 5748326204890917080
+    second: Spider_Armature|Spider_Armature|Spider_Armature|die 2.001
+  - first:
+      74: 6462901176585343595
+    second: Spider_Armature|Spider_Armature|Spider_Armature|die.001
+  - first:
+      74: 7962306682578354187
+    second: Spider_Armature|Spider_Armature|Spider_Armature|fall
+  - first:
+      74: 375917500053162331
+    second: Spider_Armature|Spider_Armature|Spider_Armature|fall.001
+  - first:
+      74: 1952050974396482109
+    second: Spider_Armature|Spider_Armature|Spider_Armature|Jump
+  - first:
+      74: 346647438671616911
+    second: Spider_Armature|Spider_Armature|Spider_Armature|Jump.001
+  - first:
+      74: 6683498689543478418
+    second: Spider_Armature|Spider_Armature|Spider_Armature|normal
+  - first:
+      74: 7969101042400901075
+    second: Spider_Armature|Spider_Armature|Spider_Armature|normal.001
+  - first:
+      74: 8472025651657005713
+    second: Spider_Armature|Spider_Armature|Spider_Armature|run_ani_back
+  - first:
+      74: -4176906385795870698
+    second: Spider_Armature|Spider_Armature|Spider_Armature|run_ani_back.001
+  - first:
+      74: -5570061842304236528
+    second: Spider_Armature|Spider_Armature|Spider_Armature|run_ani_vor
+  - first:
+      74: -2090017160622378118
+    second: Spider_Armature|Spider_Armature|Spider_Armature|run_ani_vor.001
+  - first:
+      74: -8264586046607615366
+    second: Spider_Armature|Spider_Armature|Spider_Armature|run_left
+  - first:
+      74: -2996287815139050297
+    second: Spider_Armature|Spider_Armature|Spider_Armature|run_left.001
+  - first:
+      74: 7310062420981156779
+    second: Spider_Armature|Spider_Armature|Spider_Armature|run_right
+  - first:
+      74: 5322709515915558025
+    second: Spider_Armature|Spider_Armature|Spider_Armature|run_right.001
+  - first:
+      74: 8722726988437474101
+    second: Spider_Armature|Spider_Armature|Spider_Armature|walk_ani_back
+  - first:
+      74: -1112814194863810778
+    second: Spider_Armature|Spider_Armature|Spider_Armature|walk_ani_back.001
+  - first:
+      74: -3808313332285988036
+    second: Spider_Armature|Spider_Armature|Spider_Armature|walk_ani_vor
+  - first:
+      74: 1625069361277430294
+    second: Spider_Armature|Spider_Armature|Spider_Armature|walk_ani_vor.001
+  - first:
+      74: -299498634077606267
+    second: Spider_Armature|Spider_Armature|Spider_Armature|walk_left
+  - first:
+      74: 5460331314432752329
+    second: Spider_Armature|Spider_Armature|Spider_Armature|walk_left.001
+  - first:
+      74: 7317111362483335262
+    second: Spider_Armature|Spider_Armature|Spider_Armature|walk_right
+  - first:
+      74: 7472687582368553466
+    second: Spider_Armature|Spider_Armature|Spider_Armature|walk_right.001
+  - first:
+      74: 7916079940224664768
+    second: Spider_Armature|Spider_Armature|Spider_Armature|warte_pose
+  - first:
+      74: -6566781617643293792
+    second: Spider_Armature|Spider_Armature|Spider_Armature|warte_pose.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

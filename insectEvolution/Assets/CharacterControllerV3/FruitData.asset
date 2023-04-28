@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05da16c13f6719b47b61035e65a5bb5b, type: 3}
+  m_Name: FruitData
+  m_EditorClassIdentifier: 
+  insectData:
+  - insectPrefeb: {fileID: 6928958107811758101, guid: 99fa8e77fa7fec94399040bd92689510, type: 3}
+    levelType: 1
+  - insectPrefeb: {fileID: 2687833704412480195, guid: 1ce935ca2015385419e4c75f98a36577, type: 3}
+    levelType: 2
+  - insectPrefeb: {fileID: 469335690286082852, guid: 9eb56cd83f2811f4e9d187d45e481621, type: 3}
+    levelType: 3
+  - insectPrefeb: {fileID: 5419346604740123533, guid: ae0c9b2f701d81d429904ce97493bdb9, type: 3}
+    levelType: 4
+  - insectPrefeb: {fileID: 9008203514779530351, guid: 5a30feb83826fb2419713e2ccce90c90, type: 3}
+    levelType: 5
+  - insectPrefeb: {fileID: 2664465468494632318, guid: 2136fbce35dbe0545b1c4a4d486b21b8, type: 3}
+    levelType: 6

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05da16c13f6719b47b61035e65a5bb5b, type: 3}
+  m_Name: InsectData
+  m_EditorClassIdentifier: 
+  insectData:
+  - insectPrefeb: {fileID: 9008203514779530351, guid: 5a30feb83826fb2419713e2ccce90c90, type: 3}
+    levelType: 1
+  - insectPrefeb: {fileID: 5798850538450024070, guid: 1fec50a167465ed4d8cb272a3c5f7b93, type: 3}
+    levelType: 2
+  - insectPrefeb: {fileID: 8926259410825157221, guid: 88aff0d502e4ffd49ad8febe65730890, type: 3}
+    levelType: 3
+  - insectPrefeb: {fileID: 854928608149306894, guid: b62a5609196a81447b42e4545c86f36f, type: 3}
+    levelType: 4
+  - insectPrefeb: {fileID: 1156337671109949054, guid: e9872757c2a3e73469f1672f0e5f56df, type: 3}
+    levelType: 5
+  - insectPrefeb: {fileID: 3057631402041219025, guid: e87449499489ef4459a706ea9b37835d, type: 3}
+    levelType: 6
+  - insectPrefeb: {fileID: 2601281541163521872, guid: ee90be05aeabda54bb214d22486e805a, type: 3}
+    levelType: 7
+  - insectPrefeb: {fileID: 179848661754573598, guid: f86c2a86725416d4baa08da793e3a7b9, type: 3}
+    levelType: 8
+  - insectPrefeb: {fileID: 1547804630182224980, guid: f8088fe70155b6a47bd0d40f1179e537, type: 3}
+    levelType: 9
+  - insectPrefeb: {fileID: 67842934093797874, guid: 49929df4b2308bc44832d79cb4fe80e8, type: 3}
+    levelType: 10
+  - insectPrefeb: {fileID: 823272374391634991, guid: d9f1112c5ba78754bbcc32d024e6384c, type: 3}
+    levelType: 11
+  - insectPrefeb: {fileID: 8277580628325527418, guid: b2fd13d82e1b0824593f29a5784084ae, type: 3}
+    levelType: 12
+  - insectPrefeb: {fileID: 4862057861080625251, guid: 3d86ae3dbfd4e354991d70bb619a7b5f, type: 3}
+    levelType: 13
+  - insectPrefeb: {fileID: 6347099238242389696, guid: 1eb7431f6f019284f92d2cd1a3efacfc, type: 3}
+    levelType: 14
+  - insectPrefeb: {fileID: 1978946203607440310, guid: 695fa2b39cba04c428ed45691bf8937d, type: 3}
+    levelType: 15
+  - insectPrefeb: {fileID: 7638165146758311347, guid: 853ee5c1d9340874e9261bd50a5e85c5, type: 3}
+    levelType: 16
+  - insectPrefeb: {fileID: 8356805429751786007, guid: 89a96f921c3ab9f4a8cf99604af2a5f5, type: 3}
+    levelType: 17
+  - insectPrefeb: {fileID: 8186084853290771410, guid: d9048f5fe37984a4c9930246b0f8e1bd, type: 3}
+    levelType: 18
+  - insectPrefeb: {fileID: 6269682251770420977, guid: 8d01399b8adaa1a47aa7e34d975c046d, type: 3}
+    levelType: 19
+  - insectPrefeb: {fileID: 4826703606811179547, guid: 5f44e424d9741c3488115a299c2ee112, type: 3}
+    levelType: 20
+  - insectPrefeb: {fileID: 2649786314773145280, guid: 85651d2bc4f4bc846b6a552c46930884, type: 3}
+    levelType: 21
+  - insectPrefeb: {fileID: 2307334097280202733, guid: c4e0f38248995fe45937c75ae841b6b6, type: 3}
+    levelType: 22
+  - insectPrefeb: {fileID: 9073061468943409937, guid: 10fb4d4e19d797e4497dd74ea9d29716, type: 3}
+    levelType: 23
+  - insectPrefeb: {fileID: 8495012325488726465, guid: d3c6c3ffa7d4c414098e23c836205a70, type: 3}
+    levelType: 24
+  - insectPrefeb: {fileID: 5715414383038374824, guid: fb48d1d46b922054fadd407bb3101c81, type: 3}
+    levelType: 25
+  - insectPrefeb: {fileID: 4630750544693406763, guid: 50ded2bb7fd409e488ff0b242d271a92, type: 3}
+    levelType: 26
+  - insectPrefeb: {fileID: 2569535032790778265, guid: 7d9be33c72c6ec2419a2d5282dd4300a, type: 3}
+    levelType: 27
+  - insectPrefeb: {fileID: 8575816967744800927, guid: 028ee755e547203419aad08e5eea16a8, type: 3}
+    levelType: 28
+  - insectPrefeb: {fileID: 2242352487787381300, guid: 98b38944f3838054ab22ef89901ed6ed, type: 3}
+    levelType: 29
+  - insectPrefeb: {fileID: 765778077225097572, guid: f294c9491c282004a802afbd75e2805c, type: 3}
+    levelType: 30
+  - insectPrefeb: {fileID: 1082873573509551003, guid: ab2f002b66cf2c94ca5d198ded05936d, type: 3}
+    levelType: 31
+  - insectPrefeb: {fileID: 3624075944417601811, guid: 5a5ae7cd970732b41b03c8b2e2ff9261, type: 3}
+    levelType: 32
+  - insectPrefeb: {fileID: 8451524758875074152, guid: 784d6ddbb5302744d90e1fbf344cddcf, type: 3}
+    levelType: 33
+  - insectPrefeb: {fileID: 2581783821266292217, guid: c10885e808e646f498c02551ca13f6bd, type: 3}
+    levelType: 34
+  - insectPrefeb: {fileID: 1452666021079475386, guid: cc6a4463fb2c27c49b2dcdae96baa452, type: 3}
+    levelType: 35

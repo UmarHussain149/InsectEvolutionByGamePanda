@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c807933c4f44044a927b1967211323, type: 3}
+  m_Name: FightBehaviour
+  m_EditorClassIdentifier: 
+  clampValueMax: 2
+  clampValueMin: -2.5
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  prefeb: {fileID: 4746667427184479182, guid: fc470c5f25886534eb16379710537a17, type: 3}
+  target: {fileID: 1058625504530329323, guid: 6b71590a11f75e249a989a7063596d45, type: 3}
+  SponPostion: {fileID: 1058625504530329316, guid: 6b71590a11f75e249a989a7063596d45, type: 3}
+  jumpPower: 0
+  jumpDelay: 0
+  canFight: 0
