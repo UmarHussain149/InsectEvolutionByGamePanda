@@ -1060,7 +1060,7 @@ MonoBehaviour:
     spawnPos: {fileID: 822145592611967592}
   - levelType: 2
     spawnPos: {fileID: 6310854432041285780}
-  - levelType: 2
+  - levelType: 1
     spawnPos: {fileID: 4228519393376730901}
   - levelType: 3
     spawnPos: {fileID: 6258541747007399939}

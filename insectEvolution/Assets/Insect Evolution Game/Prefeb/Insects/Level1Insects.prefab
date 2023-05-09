@@ -6996,15 +6996,15 @@ RectTransform:
   m_GameObject: {fileID: 9008203514765758827}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.8480488, y: 1.8480487, z: 1.8480487}
+  m_LocalScale: {x: 1.8480487, y: 1.8480483, z: 1.8480483}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9008203516020581900}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -53.3, y: -24.9}
+  m_AnchoredPosition: {x: -53.29985, y: -24.9}
   m_SizeDelta: {x: 110.85, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &9008203514765758612
@@ -7184,7 +7184,8 @@ MonoBehaviour:
   meshRenderer: {fileID: 7334089085238115044}
   collectionType: 0
   level: 1
-  levelText: {fileID: 4075154596390841041}
+  levelNumberText: {fileID: 4075154596390841041}
+  levelText: {fileID: 375577266802227229}
   levelCount: 1
   x1Point: {fileID: 0}
   x2Point: {fileID: 0}
@@ -10825,7 +10826,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9008203516020581900}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -14685,8 +14686,8 @@ RectTransform:
   m_LocalScale: {x: -0.006209308, y: -0.0064512296, z: -0.0064512296}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 9008203515510349312}
   - {fileID: 9008203514765758613}
+  - {fileID: 9008203515510349312}
   - {fileID: 9008203516083973632}
   m_Father: {fileID: 9008203514779530344}
   m_RootOrder: 1

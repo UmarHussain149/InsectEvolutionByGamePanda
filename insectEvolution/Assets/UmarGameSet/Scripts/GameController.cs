@@ -27,7 +27,7 @@ public class GameController : MonoBehaviour
     void Awake()
     {
         changeGameState += ChangeGameState;
-        Mediation_Manager.instance.RequestNativeBanner();
+        Mediation_Manager.instance?.RequestNativeBanner();
     }
     private void Start()
     {

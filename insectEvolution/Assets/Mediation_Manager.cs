@@ -59,8 +59,8 @@ public class Mediation_Manager : MonoBehaviour
 
     public void HideNativeBanner()
     {
-        if (this.nativeBannerView != null)
-            this.nativeBannerView.Destroy();
+
+        this.nativeBannerView?.Destroy();
     }
     public void HideExitBanner()
     {
@@ -70,13 +70,13 @@ public class Mediation_Manager : MonoBehaviour
     {
         if (nativeBannerView != null && GameController.gameState == GameState.Home)
         {
-            if (this.nativeBannerView != null)
-                this.nativeBannerView.Show();
+
+            this.nativeBannerView?.Show();
         }
         else
         {
-            if (this.nativeBannerView != null)
-                this.nativeBannerView.Destroy();
+
+            this.nativeBannerView?.Destroy();
         }
     }
 

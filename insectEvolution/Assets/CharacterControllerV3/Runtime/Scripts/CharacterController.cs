@@ -60,6 +60,7 @@ namespace THEBADDEST.CharacterController3
         public static event Action<bool> onFight;
         public int totalLarwa;
         public int eatLarwa;
+        public static event Action<int> onCharacterUpdate;
         void Awake()
         {
             InitializeAllBehaviors();
@@ -467,6 +468,9 @@ namespace THEBADDEST.CharacterController3
         {
             //upGradelevelParticle.Play();
             if (level <= LevelType.Level35)
+            {
+                onCharacterUpdate?.Invoke((int)level);
+
                 for (int i = 0; i < insects.Count; i++)
                 {
                     if (insects[i].level == level)
@@ -491,6 +495,7 @@ namespace THEBADDEST.CharacterController3
                     }
 
                 }
+            }
         }
         public void TestCharacter()
         {

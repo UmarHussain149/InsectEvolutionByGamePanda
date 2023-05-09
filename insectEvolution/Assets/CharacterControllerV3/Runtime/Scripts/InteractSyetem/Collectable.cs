@@ -14,6 +14,7 @@ namespace THEBADDEST.InteractSyetem
         [SerializeField] SkinnedMeshRenderer meshRenderer;
         public CollectionType collectionType;
         public LevelType level;
+        [SerializeField] Text levelNumberText;
         [SerializeField] Text levelText;
         [SerializeField] int levelCount;
         [SerializeField] GameObject x1Point;
@@ -22,12 +23,16 @@ namespace THEBADDEST.InteractSyetem
         [SerializeField] GameObject spider;
         [SerializeField] bool isLizardScene;
         THEBADDEST.CharacterController3.CharacterController characterController;
+        private void Awake()
+        {
+            THEBADDEST.CharacterController3.CharacterController.onCharacterUpdate += UpdateTextColor;
+        }
         private void Start()
         {
             if (levelCount <= 9)
             {
 
-                if (levelText) levelText.text = "0" + levelCount.ToString();
+                if (levelNumberText) levelNumberText.text = "0" + levelCount.ToString();
                 if (isLizardScene)
                 {
 
@@ -36,7 +41,7 @@ namespace THEBADDEST.InteractSyetem
             }
             else
             {
-                if (levelText) levelText.text = levelCount.ToString();
+                if (levelNumberText) levelNumberText.text = levelCount.ToString();
                 if (isLizardScene)
                 {
 
@@ -168,6 +173,20 @@ namespace THEBADDEST.InteractSyetem
                     characterController.CurrentPorgression(level, -0.25f);
                     characterController.currentInsect.GetComponent<DOTweenAnimation>().DORestartById("Hit");
                 }
+            }
+        }
+
+        void UpdateTextColor(int level)
+        {
+            if (levelCount <= level)
+            {
+                if (levelText) levelText.color = Color.green;
+                if (levelNumberText) levelNumberText.color = Color.green;
+            }
+            else
+            {
+                if (levelText) levelText.color = Color.red;
+                if (levelNumberText) levelNumberText.color = Color.red;
             }
         }
     }

@@ -1582,7 +1582,8 @@ MonoBehaviour:
   meshRenderer: {fileID: 0}
   collectionType: 0
   level: 17
-  levelText: {fileID: 3164969938452962461}
+  levelNumberText: {fileID: 3164969938452962461}
+  levelText: {fileID: 3164969937530181339}
   levelCount: 17
   x1Point: {fileID: 0}
   x2Point: {fileID: 0}

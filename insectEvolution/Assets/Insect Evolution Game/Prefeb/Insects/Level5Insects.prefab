@@ -1977,7 +1977,8 @@ MonoBehaviour:
   meshRenderer: {fileID: 0}
   collectionType: 0
   level: 5
-  levelText: {fileID: 7042838719677564414}
+  levelNumberText: {fileID: 7042838719677564414}
+  levelText: {fileID: 3837321062759759313}
   levelCount: 5
   x1Point: {fileID: 0}
   x2Point: {fileID: 0}

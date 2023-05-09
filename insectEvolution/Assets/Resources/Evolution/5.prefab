@@ -2027,11 +2027,11 @@ MonoBehaviour:
     spawnPos: {fileID: 1604624416435039271}
   - levelType: 4
     spawnPos: {fileID: 5402497215481496935}
-  - levelType: 6
+  - levelType: 3
     spawnPos: {fileID: 4791021122887092628}
   - levelType: 5
     spawnPos: {fileID: 5426308025351565564}
-  - levelType: 5
+  - levelType: 2
     spawnPos: {fileID: 8137563785962128984}
   - levelType: 5
     spawnPos: {fileID: 8914575218184597762}
@@ -3587,14 +3587,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4791021122887092635}
-  m_LocalRotation: {x: -0, y: -0.99850947, z: -0, w: 0.054580476}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.13, y: -0.03999996, z: 55.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8631280349162416490}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: -173.742, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &5377830690363018885
 GameObject:
   m_ObjectHideFlags: 0
@@ -3675,6 +3675,7 @@ MonoBehaviour:
   meshRenderer: {fileID: 0}
   collectionType: 0
   level: 5
+  levelNumberText: {fileID: 0}
   levelText: {fileID: 0}
   levelCount: 5
   x1Point: {fileID: 0}
@@ -3900,6 +3901,7 @@ MonoBehaviour:
   meshRenderer: {fileID: 0}
   collectionType: 0
   level: 5
+  levelNumberText: {fileID: 0}
   levelText: {fileID: 0}
   levelCount: 5
   x1Point: {fileID: 0}
@@ -4168,6 +4170,7 @@ MonoBehaviour:
   meshRenderer: {fileID: 0}
   collectionType: 0
   level: 5
+  levelNumberText: {fileID: 0}
   levelText: {fileID: 0}
   levelCount: 5
   x1Point: {fileID: 0}
